@@ -1,37 +1,28 @@
-# Hi, I'm Keshav T.
+# Hi, I'm Keshav
 
-AI Test Engineer focused on building reliable evaluation systems for LLMs and AI agents.
+AI Evaluation Engineer focused on building reliable, scalable evaluation systems for LLMs and AI agents.
 
-I help teams measure AI quality, detect regressions, and build production-ready AI systems through evaluation frameworks, benchmarks, observability, and automated testing.
+I help teams measure AI quality, detect regressions, and confidently ship production-ready AI systems through evaluation frameworks, benchmarks, observability, and automated testing.
 
 ---
 
 ## About Me
 
-I have 10+ years of experience in software engineering, cloud-native applications, and test automation.
+AI Evaluation Engineer with 10+ years of experience in software engineering, cloud-native application development, and test automation.
 
-My focus is combining software engineering, quality engineering, and AI evaluation to make generative AI systems measurable, testable, and trustworthy.
-
-Core areas:
-
-- AI Agent Evaluation
-- LLM Evaluation
-- LLM-as-a-Judge
-- Benchmark Design
-- Regression Testing
-- AI Observability
-- Evaluation Framework Design
-- Test Automation
+My expertise includes AI agent evaluation, LLM evaluation, benchmark design, regression testing, LLM-as-a-Judge, and AI observability.
 
 ---
 
-## Featured Portfolio Projects
+## Featured Projects
 
 ### AI Pulse Flux - Evaluation Framework
 
 A scalable production-ready evaluation framework demonstrating how to evaluate AI agents using benchmark design, LLM-as-a-Judge, regression testing, observability, and experiment tracking.
 
 The project uses **AI Pulse Flux**, a lightweight AI agent, as the System Under Test to demonstrate practical AI Evaluation Engineering techniques.
+
+**Tech Stack:** Python, Promptfoo, DeepEval, Langfuse, SQLite, FastAPI, Ollama
 
 → [Explore Project](https://github.com/ai-pulse-flux-org)
 
@@ -43,34 +34,7 @@ More AI evaluation, reliability, and test automation projects will be added here
 
 ---
 
-## Technologies
-
-**AI Evaluation**
-
-- Promptfoo
-- DeepEval
-- Langfuse
-- LLM Evaluation
-- AI Agent Evaluation
-- Model Context Protocol (MCP)
-
-**Programming**
-
-- Python
-- TypeScript
-- JavaScript
-
-**Engineering**
-
-- Test Automation
-- Playwright
-- REST APIs
-- Microservices
-- CI/CD
-
----
-
-## Let's Connect
+## Connect
 
 **LinkedIn**  
 https://linkedin.com/in/kt4246
